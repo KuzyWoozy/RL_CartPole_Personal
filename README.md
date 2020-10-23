@@ -2,7 +2,7 @@
 
 # RL_Cart-Pole_Personal 
 ## Summary 
-  A working solution to the OpenAI gym cart-pole problem using Tensorflow. GPU support is recommended, which can be set up via cuda.
+  A working Reinforcement Learning solution to the OpenAI gym cart-pole problem using Tensorflow. GPU support is recommended, which can be set up via cuda.
 
 ### Dependencies (install via pip)
   - tensorflow
